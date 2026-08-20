@@ -98,13 +98,6 @@ Levi Mackay
 
 Computer Science student at BYU–Idaho interested in software engineering, developer tools, and building practical projects that improve programming workflows.
 
-_Last updated: July 22, 2026_
+## License
 
-_Last reviewed: 2026-07-20 19:33 MDT_
-
----
-**Last updated:** 2026-08-20 07:11 MDT
-
----
-
-Maintained by [Levi Mackay](https://github.com/levibmackay)
+MIT. See [LICENSE](LICENSE).
